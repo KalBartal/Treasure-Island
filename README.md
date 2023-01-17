@@ -2,7 +2,17 @@
 
 This is my coding challenge submission for day #3 of the 100 Days of Code: The Complete Python Pro Bootcamp, instructor-led training.
 
-This is a simple story telling application which takes user inputs and the story unfolds based on these inputs.
+Welcome to Treasure Island! In this text-based adventure game, you are on a mission to find the treasure. The game is played by making choices at different points in the game, and the outcome of the game depends on the choices you make.
+
+## Getting Started
+
+Run the program on your preferred Python environment
+Follow the instructions given by the game and make choices by typing 'left' or 'right'
+Continue to make choices until you either find the treasure or the game ends
+
+## Built With
+
+Python - The programming language used
  
 ## Usage
 
